@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CondorHalcon&show_icons=true&hide_border=false&title_color=ffffff&icon_color=ffffff&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CondorHalcon&show_icons=true&hide_border=false&title_color=bcbcbc&icon_color=bcbcbc&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [website]: https://condorhalcon.com
 [email]: judahhohawi@outlook.com
