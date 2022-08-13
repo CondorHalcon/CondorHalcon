@@ -5,8 +5,10 @@
 
 ### Connect with me
 [<img align="left" alt="discord" width="40px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="padding-right:10px;" />](https://discord.com)
-[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg)](https://condorhalcon.com#gh-light-mode-only)
-[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg)](https://condorhalcon.com#gh-dark-mode-only)
+[!<img align="left" alt="discord" width="40px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg[<img align="left" alt="discord" width="40px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="padding-right:10px;" />](https://discord.com)
+](https://condorhalcon.com#gh-light-mode-only)
+[!<img align="left" alt="discord" width="40px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg[<img align="left" alt="discord" width="40px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="padding-right:10px;" />](https://discord.com)
+](https://condorhalcon.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ## Workflow
