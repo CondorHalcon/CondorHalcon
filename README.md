@@ -4,9 +4,9 @@
 - Currently working on: Releasing my first game.
 
 ### Connect with me
-[<img align="left" alt="discord" width="40px" src="./Discord-Logo-Color.svg" style="padding-right:10px;" />](https://discord.com)
-[![website](./img/globe-light.svg)](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg#gh-dark-mode-only)
+[<img align="left" alt="discord" width="40px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="padding-right:10px;" />](https://discord.com)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg)](https://condorhalcon.com#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg)]https://condorhalcon.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ## Workflow
@@ -24,7 +24,7 @@
 [Bosca Ceoil](https://boscaceoil.net/)
 [<img align="left" alt="draw.io" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" style="padding-right:10px;" />](https://www.diagrams.net/)
 [<img align="left" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-[<img align="left" alt="unrealengine" width="40px" src="https://raw.githubusercontent.com/jekyll/brand/master/jekyll-logo-black.svg" style="padding-right:10px;" />](https://jekyllrb.com/)
+[<img align="left" alt="jekyll" height="40px" src="https://raw.githubusercontent.com/jekyll/brand/master/jekyll-logo-black.svg" style="padding-right:10px;" />](https://jekyllrb.com/)
 [<img align="left" alt="unrealengine" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" style="padding-right:10px;" />](https://www.unrealengine.com/)
 <br />
 <br />
@@ -37,6 +37,8 @@
 [<img align="left" alt="css3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.w3.org/Style/CSS/Overview.en.html)
 <br />
 <br />
+
+---
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CondorHalcon&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
