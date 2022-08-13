@@ -5,9 +5,10 @@
 
 ### Connect with me
 [<img align="left" alt="discord" width="40px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="padding-right:10px;" />](https://discord.com)
-[!<img align="left" alt="discord" width="40px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" style="padding-right:10px;" />](https://condorhalcon.com#gh-light-mode-only)
-[!<img align="left" alt="discord" width="40px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" style="padding-right:10px;" />](https://condorhalcon.com#gh-dark-mode-only)
-&nbsp;&nbsp;
+[<img align="left" alt="discord" width="40px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" style="padding-right:10px;" />](https://condorhalcon.com#gh-light-mode-only)
+[<img align="left" alt="discord" width="40px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" style="padding-right:10px;" />](https://condorhalcon.com#gh-dark-mode-only)
+<br />
+<br />
 
 ## Workflow
 [<img align="left" alt="unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />](https://unity.com)
