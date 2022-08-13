@@ -22,7 +22,6 @@
 
 ### Other Software I use
 [<img align="left" alt="audacity" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" style="padding-right:10px;" />](https://www.audacityteam.org/)
-[Bosca Ceoil](https://boscaceoil.net/)
 [<img align="left" alt="draw.io" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" style="padding-right:10px;" />](https://www.diagrams.net/)
 [<img align="left" alt="git" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="jekyll" height="40px" src="https://raw.githubusercontent.com/jekyll/brand/master/jekyll-logo-black.svg" style="padding-right:10px;" />](https://jekyllrb.com/)
