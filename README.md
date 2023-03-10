@@ -4,7 +4,7 @@
 - Currently working on: Releasing my first game.
 
 ### Connect with me
-[<img align="left" alt="discord" height="40px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="padding-right:10px;" />](https://discord.gg.x7qNK3e447)
+[<img align="left" alt="discord" height="40px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="padding-right:10px;" />](https://discord.gg/x7qNK3e447)
 [<img align="left" alt="discord" height="40px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-light.svg" style="padding-right:10px;" />](https://condorhalcon.com#gh-light-mode-only)
 [<img align="left" alt="discord" height="40px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg" style="padding-right:10px;" />](https://condorhalcon.com#gh-dark-mode-only)
 <br />
