@@ -1,7 +1,7 @@
 # Salutations, I'm Judah Hawi aka CondorHalcon
 
 ## I'm a self taught game programmer.
-- Currently working on: Releasing my first game.
+- Currently enrolled at [AIE](seattle.aie.edu).
 
 ### Connect with me
 [<img align="left" alt="discord" height="40px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="padding-right:10px;" />](https://discord.gg/x7qNK3e447)
