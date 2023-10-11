@@ -19,8 +19,7 @@
 <br />
 <br />
 
-### Other Software I use
-[<img align="left" alt="audacity" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" style="padding-right:10px;" />](https://www.audacityteam.org/)
+### Other Software I have used
 [<img align="left" alt="draw.io" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" style="padding-right:10px;" />](https://www.diagrams.net/)
 [<img align="left" alt="git" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" height="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com#gh-dark-mode-only)
