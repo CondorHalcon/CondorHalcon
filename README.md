@@ -1,6 +1,6 @@
 #### Salutations, I'm Judah Hawi aka CondorHalcon
 
-I'm a self-taught game programmer currently enrolled at [AIE Seattle](seattle.aie.edu) where I'm working toward becoming a proficient graphics programmer. I have a history in full-stack web development, cybersecurity, and product testing. In the future, I look to work on graphics programming for games in the Unity, Unreal, and Godot game engines.
+I'm a self-taught game programmer currently enrolled at [AIE Seattle](seattle.aie.edu) where I'm working toward becoming a proficient graphics and tool programmer. I have a history in full-stack web development, cybersecurity, and product testing. In the future, I look to work on shader and tool programming for games in the Unity, Unreal, and Godot game engines.
 
 ### Connect with me
 [<img align="left" alt="discord" height="40px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" style="padding-right:10px;" />](https://discord.gg/x7qNK3e447)
